@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/Bequit-lesson/static/css/main.d1b05096.chunk.css",
-    "main.js": "/Bequit-lesson/static/js/main.05f82a2b.chunk.js",
-    "main.js.map": "/Bequit-lesson/static/js/main.05f82a2b.chunk.js.map",
-    "runtime~main.js": "/Bequit-lesson/static/js/runtime~main.42e09efb.js",
-    "runtime~main.js.map": "/Bequit-lesson/static/js/runtime~main.42e09efb.js.map",
-    "static/js/2.ea490775.chunk.js": "/Bequit-lesson/static/js/2.ea490775.chunk.js",
-    "static/js/2.ea490775.chunk.js.map": "/Bequit-lesson/static/js/2.ea490775.chunk.js.map",
-    "static/js/3.d439ba6f.chunk.js": "/Bequit-lesson/static/js/3.d439ba6f.chunk.js",
-    "static/js/3.d439ba6f.chunk.js.map": "/Bequit-lesson/static/js/3.d439ba6f.chunk.js.map",
+    "main.js": "/Bequit-lesson/static/js/main.9c1ece2e.chunk.js",
+    "main.js.map": "/Bequit-lesson/static/js/main.9c1ece2e.chunk.js.map",
+    "runtime~main.js": "/Bequit-lesson/static/js/runtime~main.9ee1f066.js",
+    "runtime~main.js.map": "/Bequit-lesson/static/js/runtime~main.9ee1f066.js.map",
+    "static/js/2.6371ef25.chunk.js": "/Bequit-lesson/static/js/2.6371ef25.chunk.js",
+    "static/js/2.6371ef25.chunk.js.map": "/Bequit-lesson/static/js/2.6371ef25.chunk.js.map",
+    "static/js/3.21bc6e9c.chunk.js": "/Bequit-lesson/static/js/3.21bc6e9c.chunk.js",
+    "static/js/3.21bc6e9c.chunk.js.map": "/Bequit-lesson/static/js/3.21bc6e9c.chunk.js.map",
     "index.html": "/Bequit-lesson/index.html",
-    "precache-manifest.73d07c9e9f894a0d0a26fbf426164336.js": "/Bequit-lesson/precache-manifest.73d07c9e9f894a0d0a26fbf426164336.js",
-    "service-worker.js": "/Bequit-lesson/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/Bequit-lesson/static/css/main.d1b05096.chunk.css.map",
-    "static/media/logo.svg": "/Bequit-lesson/static/media/logo.06e73328.svg"
+    "precache-manifest.86eb5aea658ce31cbf70067506eef572.js": "/Bequit-lesson/precache-manifest.86eb5aea658ce31cbf70067506eef572.js",
+    "service-worker.js": "/Bequit-lesson/service-worker.js"
   }
 }

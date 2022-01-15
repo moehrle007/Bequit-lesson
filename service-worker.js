@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Bequit-lesson/precache-manifest.73d07c9e9f894a0d0a26fbf426164336.js"
+  "/Bequit-lesson/precache-manifest.86eb5aea658ce31cbf70067506eef572.js"
 );
 
 self.addEventListener('message', (event) => {
